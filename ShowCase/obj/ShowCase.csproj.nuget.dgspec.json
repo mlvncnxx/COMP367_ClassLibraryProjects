@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Centennial College\\Winter 2023\\COMP 367\\COMP367_ClassLibraryProjects\\ShowCase\\ShowCase.csproj": {}
+  },
+  "projects": {
+    "E:\\Centennial College\\Winter 2023\\COMP 367\\COMP367_ClassLibraryProjects\\ShowCase\\ShowCase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Centennial College\\Winter 2023\\COMP 367\\COMP367_ClassLibraryProjects\\ShowCase\\ShowCase.csproj",
+        "projectName": "ShowCase",
+        "projectPath": "E:\\Centennial College\\Winter 2023\\COMP 367\\COMP367_ClassLibraryProjects\\ShowCase\\ShowCase.csproj",
+        "packagesPath": "C:\\Users\\melvi\\.nuget\\packages\\",
+        "outputPath": "E:\\Centennial College\\Winter 2023\\COMP 367\\COMP367_ClassLibraryProjects\\ShowCase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "E:\\Centennial College\\Winter 2023\\COMP 367\\COMP367_ClassLibraryProjects\\NuGet.Config",
+          "C:\\Users\\melvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://pkgs.dev.azure.com/melanonuevo/_packaging/comp367/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/melanonuevo/b7b15a06-2f68-4a82-9f1b-b6e3f9a7e6d9/_packaging/COMP367-Lab4/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Centennial College\\Winter 2023\\COMP 367\\COMP367_ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj": {
+                "projectPath": "E:\\Centennial College\\Winter 2023\\COMP 367\\COMP367_ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Centennial College\\Winter 2023\\COMP 367\\COMP367_ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Centennial College\\Winter 2023\\COMP 367\\COMP367_ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
+        "projectName": "StringLibrary",
+        "projectPath": "E:\\Centennial College\\Winter 2023\\COMP 367\\COMP367_ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
+        "packagesPath": "C:\\Users\\melvi\\.nuget\\packages\\",
+        "outputPath": "E:\\Centennial College\\Winter 2023\\COMP 367\\COMP367_ClassLibraryProjects\\StringLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "E:\\Centennial College\\Winter 2023\\COMP 367\\COMP367_ClassLibraryProjects\\NuGet.Config",
+          "C:\\Users\\melvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://pkgs.dev.azure.com/melanonuevo/_packaging/comp367/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/melanonuevo/b7b15a06-2f68-4a82-9f1b-b6e3f9a7e6d9/_packaging/COMP367-Lab4/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1x7CtQQe4JFh2kIq9tA6KQyYgsAnwUB+VIewo+XQEhqoubuEYJnBgYSepNQ0TFIL5cIwqd6n+v0u8G4PtBnCSw==",
+  "success": true,
+  "projectFilePath": "E:\\Centennial College\\Winter 2023\\COMP 367\\COMP367_ClassLibraryProjects\\ShowCase\\ShowCase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melvi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\melvi\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\melvi\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
