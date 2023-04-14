@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Q5TwvOaaejmK5YXAyKsdgnnOgQAtDh7xjyQme8ASFUiWRy3IwYaY4bOZXnyHSTWs2E5WTtUTSpfE2WLAn2/TTA==",
+  "dgSpecHash": "01jkXU1//1VsbYzBoDeyzq/L89cWGzmiKjTBVnrB0Bee71WsuDXC+XYo5gzBGkuEnolGUZj+dLivgmqBFM4iIw==",
   "success": true,
-  "projectFilePath": "E:\\Centennial College\\Winter 2023\\COMP 367\\COMP367_ClassLibraryProjects\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Centennial College\\Winter 2023\\COMP 367\\COMP367_ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melvi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\melvi\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\melvi\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
   "logs": []
 }
